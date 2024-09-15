@@ -1,16 +1,13 @@
-# 💫 About Me:
-🔭 I’m currently working on ... Java backend and javascript and react frontend<br>🌱 I’m currently learning ... Proxmox and reverse proxy( for fun projects)<br>👯 I’m looking to collaborate on ... selfhosting and Homelab<br>💬 Ask me about ... java and self hosting<br>📫 How to reach me: ... https://jagapathi.me<br>⚡ Fun fact: ... I can code or fix defects in any language without experience 😋 😂<br>contributions: got into arch recently i maintain https://aur.archlinux.org/packages/zoom-citrix-plugin
+# <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/47eb2734-addb-46da-b4dd-5e1616cd3853" width="35" height="35" /> Hi, it's nice to see you, I'm Jagapathi :)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/42077049-1939-493e-9a19-47ca5db36643" width="35" height="25" /> Senior Manager @ MorganStanley
+<br/>
+<br/>
+<br/>
 
-## 🌐 Socials:
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4044380) 
+Did i say "I use Arch BTW"
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gondhijagapathi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gondhijagapathi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gondhijagapathi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://img.ifunny.co/images/ca84d03fed8eb2fdb058b6c2e607c5efe7e1fbb7e6b02ba7edb561a5859ad219_1.webp" width="300" height="300" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gondhijagapathi&icon=0&color=0)](https://visitcount.itsvg.in)
