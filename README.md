@@ -17,7 +17,7 @@
 <div id="user-content-toc">
   <ul align="left" style="list-style: none;">
     <summary>
-      <h2><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2605358-6b87-44ab-87fb-20dcdc5f9ef2" width="35" height="35" /> Current OpenSource Projects (WIP)</h2>
+      <h2><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a2605358-6b87-44ab-87fb-20dcdc5f9ef2" width="35" height="35" /> Current OpenSource Projects</h2>
     </summary>
   </ul>
 </div>
@@ -40,9 +40,6 @@
 
 <br/>
 <br/>
-Did i say "I use Arch BTW"
-
-<img src="https://img.ifunny.co/images/ca84d03fed8eb2fdb058b6c2e607c5efe7e1fbb7e6b02ba7edb561a5859ad219_1.webp" width="300" height="300" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gondhijagapathi&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
