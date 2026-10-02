@@ -45,8 +45,3 @@
 
 <br/>
 <br/>
-
----
-[![](https://visitcount.itsvg.in/api?id=gondhijagapathi&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
